@@ -1,1 +1,5 @@
-Hello World!!! new new new new
+#include<stdio.h>  
+main() 
+{     
+   printf("Hello World\n");
+}
